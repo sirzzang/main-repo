@@ -1,3 +1,4 @@
 [submodule "submodule-repo"]
 	path = submodule-repo
 	url = git@github.com:sirzzang/submodule-repo.git
+	branch = feature
